@@ -1,0 +1,38 @@
+<link type="text/css"  rel="stylesheet" href=" <%= Page.ResolveUrl("~/Content/bootstrap.min.css")%>"/>
+            <script src="<%= Page.ResolveUrl("~/Scripts/jquery-3.0.0.min.js") %>"></script>
+            <script src="<%= Page.ResolveUrl("~/Scripts/bootstrap.bundle.js") %>"></script>
+
+usar esto para evitar problemas con boostrap
+
+1:23 muestra como sube algo con tortoise git 
+
+tener cuidado con los buttons de los elementos 
+cuando copiamos que se ponen con el mismo nombre
+
+session= tiene un limite de tiempo(20 min)
+podes configurarlo desde el iiexpres para aumentar 
+o minimizar
+
+response.cookies ["contador"].value != "". metodo para cookies
+
+request = lo que le envian a la pagina
+ejemplo un formulario
+
+request= lo que le devuelve el sistema a lo que solicito
+el cliente
+ejemplo alguna msj de se cargo los datos o un error
+
+<appSettings>  
+<add key="nombrePersona" value="Matias Varela"/>
+</appSettings>  
+sirve para definir algun label o variable desde el web.config
+
+
+??= es un else mas corto. si lo de la izquierda no es true
+va la derecha
+
+clase global = son tipos de clases que se usan para un 
+determinado momento
+
+ejemplo = una clase global puede tener un metodo cuando
+arranca la session o carga la pagina 

@@ -1,0 +1,14 @@
+parcial class: es una clase que se pueden 
+dividir en varias clases y hacer lo mismo
+
+ejemplo: persona,puede tener atributos
+y despues hacer otra clase
+
+personaMetodos donde tiene las funcionalidaes
+
+en resumen: creo que sirve para que
+una clase no quede tan largaaa y el 
+codigo quede legible y divido en pequeñas
+capitas
+
+<hr> = te hace una linea orizontal html

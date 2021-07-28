@@ -1,0 +1,63 @@
+https://github.com/github/gitignore
+
+todo los gitignore de todos los lenguajes
+
+<link type= "text/css" href=""
+
+tag meta= son tags de configuracion al
+navegador
+
+text-center = centra la columna con boostrap
+
+col-numeroDesaado= cambia el tamaño de la 
+col
+
+cssClass= sirve para meterle eventos y 
+clases al asp
+
+incluir img en un proyect:
+en explorador de soluciones >agregar>
+te aparecen las carpetas>click derecho>
+agregar al proyecto
+
+agregar tag meta
+
+documentacion de boostrap> Starter template
+>meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+el meta ayuda a que el responsive funcione
+bien
+
+columnas boostrap
+
+el ancho de la pagina es de 12px
+
+si quiero que se divida en 2
+
+seria 6x6
+
+si quiero en 4
+
+3x3 y ahi . calculando el tamaño del ancho
+que es 12
+
+para agrandar o achicar las columnas
+al lado del col es -. siempre
+respetando los 12 px
+
+lo primero que necesita es un contenedor
+
+pagina de palabras random
+
+lorem ipsum generator
+
+centrar un texto con bostrap
+
+text-center
+
+Tarea, hacer una pagina con boostrap
+
+revisar la segunda parte antes del break 
+
+ver como configurar tortoise git
+
